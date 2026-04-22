@@ -1,4 +1,6 @@
 # Project 3: The Status Manager
+PAGES LINK - https://lod12321.github.io/project-3/
+GITHUB LINK - https://github.com/Lod12321/project-3.git
 ## Files
 
 - [`index.html`](index.html) — page structure and target elements
